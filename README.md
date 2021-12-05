@@ -28,6 +28,7 @@ A simple guide with examples for working with Pandas.
 - [Working with Dates & Times](https://github.com/jkenney0501/Python_Pandas_Guide/blob/main/Notebooks/Data_Frames_8_Dates_Times.ipynb)
 
 - [Example of grouping and using a max date value](https://github.com/jkenney0501/Python_Pandas_Guide/blob/main/Notebooks/DataFrames-Sorting%20loans%20in%20a%20group%20and%20taking%20the%20most%20recent%20date.ipynb)
+  - Time delta is also applied to create new columns based on a date
 
 - [Working with Text Data](https://github.com/jkenney0501/Python_Pandas_Guide/blob/main/Notebooks/Data_Frames_Working_with_Text_Data.ipynb)
   - lower, upper, title, len
