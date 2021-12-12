@@ -43,7 +43,7 @@ A simple guide with examples for working with Pandas. This series will expand in
 - [Example of grouping and using a max date value](https://github.com/jkenney0501/Python_Pandas_Guide/blob/main/Notebooks/DataFrames-Sorting%20loans%20in%20a%20group%20and%20taking%20the%20most%20recent%20date.ipynb)
   - Time delta is also applied to create new columns based on a date
 
-- [Merge, Join & Concatenate DataFrames]()
+- [Merge, Join & Concatenate DataFrames](http://localhost:8888/notebooks/OneDrive/%C3%81rea%20de%20Trabalho/Python-%20A_Pandas_Guide/Notebooks/Merge%2C%20Join%20%26%20Concatenate%20DataFrames.ipynb)
   - Concatenating
   - Joins - inner, outer, left
   - Join paramters
