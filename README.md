@@ -1,5 +1,5 @@
 # Python Pandas Guide
-A simple guide with examples for working with Pandas.
+A simple guide with examples for working with Pandas. This series will expand in the furture to include more examples of functions applied to data frames but for now it's a good basic guide to using Pandas fro data analysis.
 
 ### Understanding the Pandas Series
 - [Series Intro](https://github.com/jkenney0501/Python_Pandas_Guide/blob/main/Notebooks/Series.ipynb)
