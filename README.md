@@ -3,6 +3,14 @@ A simple guide with examples for working with Pandas.
 
 ### Understanding the Pandas Series
 - [Series Intro](https://github.com/jkenney0501/Python_Pandas_Guide/blob/main/Notebooks/Series.ipynb)
+  - Creating a Series from a list, dictionary and csv
+  - Attributes
+  - Methods
+  - Parameters and arguements
+  - Sorting by value and index
+  - Extracting by label and index position
+  - Using apply method with custom functions
+  - Using the map method
 
 ### Data Frames
 - [Intro](https://github.com/jkenney0501/Python_Pandas_Guide/blob/main/Notebooks/Data_Frames_1_A_intro_select_insert.ipynb)
@@ -26,13 +34,26 @@ A simple guide with examples for working with Pandas.
 - [Group By](https://github.com/jkenney0501/Python_Pandas_Guide/blob/main/Notebooks/Data_Frames_6_Group_By.ipynb)
 
 - [Working with Dates & Times](https://github.com/jkenney0501/Python_Pandas_Guide/blob/main/Notebooks/Data_Frames_8_Dates_Times.ipynb)
+  - Python date/time module
+  - Timestamps
+  - Pandas to_datetime method
+  - Handling errors
+  - Time delta Object
 
 - [Example of grouping and using a max date value](https://github.com/jkenney0501/Python_Pandas_Guide/blob/main/Notebooks/DataFrames-Sorting%20loans%20in%20a%20group%20and%20taking%20the%20most%20recent%20date.ipynb)
   - Time delta is also applied to create new columns based on a date
 
+- [Merge, Join & Concatenate DataFrames]()
+  - Concatenating
+  - Joins - inner, outer, left
+  - Join paramters
+  - Merging
+ 
+
 - [Working with Text Data](https://github.com/jkenney0501/Python_Pandas_Guide/blob/main/Notebooks/Data_Frames_Working_with_Text_Data.ipynb)
-  - lower, upper, title, len
-  - replace
-  - strip, lstrip, rstrip
-  - split
-  - paramters of str.split
+
+
+- [Visualization with Pandas](https://github.com/jkenney0501/Python_Pandas_Guide/blob/main/Notebooks/Visualization%20in%20Pandas.ipynb)
+  - Basic Pandas charts and graphs for quick use
+  - Matplotlib for better visualizations
+  - Modifying aesthetics
