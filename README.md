@@ -51,6 +51,10 @@ A simple guide with examples for working with Pandas.
  
 
 - [Working with Text Data](https://github.com/jkenney0501/Python_Pandas_Guide/blob/main/Notebooks/Data_Frames_Working_with_Text_Data.ipynb)
+  - Common methods - lower, upper, title and lrn
+  - Replacing values in a string
+  - Strip, lstrip, rstrip
+  - Spliting strings
 
 
 - [Visualization with Pandas](https://github.com/jkenney0501/Python_Pandas_Guide/blob/main/Notebooks/Visualization%20in%20Pandas.ipynb)
