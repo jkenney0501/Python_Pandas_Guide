@@ -62,5 +62,10 @@ A simple guide with examples for working with Pandas. This series will expand in
 ## Data Visualization - Finishing Someday Soon!
 - [Visualization with Pandas](https://github.com/jkenney0501/Python_Pandas_Guide/blob/main/Notebooks/Visualization%20in%20Pandas.ipynb)
   - Basic Pandas charts and graphs for quick use
-  - Matplotlib for better visualizations
+  - Time Series, bar, scatter (Unfinished for now)
   - Modifying aesthetics
+
+- [Matplotlib Basic Visualizations](https://github.com/jkenney0501/Python_Pandas_Guide/blob/main/Notebooks/Visualization-Line-Freq-Hist-Box-Pie-scatter.ipynb)
+  - Basic bar, line, hist, scatter plots.
+  - Sub plots, multiple plots
+  - Additional customization for plots - Comming Soon, more to come in the future.
