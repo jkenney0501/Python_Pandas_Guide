@@ -3,7 +3,7 @@
 
 A simple guide with examples for working with Pandas. This series will expand in the future to include more examples of functions applied to data frames but for now it's a good basic guide to using Pandas for data analysis. Explanations are not real deep, it's for my reference but anyone is welcome to use it, clone it or do whatever you want with it. I will be updating as I go.
 
-### Understanding the Pandas Series
+## Understanding the Pandas Series
 - [Series Intro](https://github.com/jkenney0501/Python_Pandas_Guide/blob/main/Notebooks/Series.ipynb)
   - Creating a Series from a list, dictionary and csv
   - Attributes
@@ -14,7 +14,7 @@ A simple guide with examples for working with Pandas. This series will expand in
   - Using apply method with custom functions
   - Using the map method
 
-### Data Frames
+## Data Frames
 - [Intro](https://github.com/jkenney0501/Python_Pandas_Guide/blob/main/Notebooks/Data_Frames_1_A_intro_select_insert.ipynb)
   - Selecting, Assigning new columns and using insert.
 
@@ -59,6 +59,7 @@ A simple guide with examples for working with Pandas. This series will expand in
   - Spliting strings
 
 
+## Data Visualization - Finishing Someday Soon!
 - [Visualization with Pandas](https://github.com/jkenney0501/Python_Pandas_Guide/blob/main/Notebooks/Visualization%20in%20Pandas.ipynb)
   - Basic Pandas charts and graphs for quick use
   - Matplotlib for better visualizations
