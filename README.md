@@ -69,5 +69,5 @@ A simple guide with examples for working with Pandas. This series will expand in
   - Basic bar, line, hist, scatter plots.
   - Sub plots, multiple plots
 
-- [More Matplotlib - Modern](https://github.com/jkenney0501/Python_Pandas_Guide/blob/main/Notebooks/Matplotlib%20Guide.ipynb)
-  - Additional customization for plots - Comming Soon, more to come in the future.
+- [More Matplotlib - Modern and Most Complete Version](https://github.com/jkenney0501/Python_Pandas_Guide/blob/main/Notebooks/Matplotlib%20Guide.ipynb)
+  - Additional customization for plots - This is the most technical version with a lot of details for plots and styling.
