@@ -18,6 +18,11 @@ A simple guide with examples for working with Pandas. This series will expand in
 - [Intro](https://github.com/jkenney0501/Python_Pandas_Guide/blob/main/Notebooks/Data_Frames_1_A_intro_select_insert.ipynb)
   - Selecting, Assigning new columns and using insert.
 
+- [Data Cleaning (Basic Null value handling)](https://github.com/jkenney0501/Python_Pandas_Guide/blob/main/Notebooks/Data%20Preparation%20-%20Working%20with%20Missing%20Values%20in%20Pandas.ipynb)
+  - Dealing with Nulls, NaN using isna( )
+  - Replacing with fillna( )
+  - Changing parameters
+
 - [Operations, dropping and filling NA's & Conerting data types](https://github.com/jkenney0501/Python_Pandas_Guide/blob/main/Notebooks/Data_Frames_1_B_ops_counts_na_astype.ipynb)
 
 - [Sorting and Ranking](https://github.com/jkenney0501/Python_Pandas_Guide/blob/main/Notebooks/Data_Frames_1_C_Sorting_Ranking.ipynb)
